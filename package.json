@@ -1,5 +1,5 @@
 {
-  "name": "atlan",
+  "name": "upp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-static": "^0.7.11"
+    "debug": "^4.1.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "node-static": "^0.7.11",
+    "path": "^0.12.7"
   }
 }
